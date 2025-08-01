@@ -1,0 +1,5 @@
+{
+  "name": "Echo Escape",
+  "description": "A stealth-puzzle game where you navigate a maze that reacts to sound. Use sound pulses strategically to reveal the path and escape, but be warned - every sound you make alerts lurking enemies to your position.",
+  "requestFramePermissions": []
+}
